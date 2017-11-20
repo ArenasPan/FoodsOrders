@@ -1,0 +1,4 @@
+FoodsDao = com.example.dao.FoodsDaoImpl
+FoodsService = com.example.service.FoodsServiceImpl
+OrderDao = com.example.dao.OrderDaoImpl
+OrderService = com.example.service.OrderServiceImpl
